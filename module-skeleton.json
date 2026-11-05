@@ -1,0 +1,15 @@
+{
+  "repository": "module-sap-assets-and-facilities-nextjs",
+  "capabilityKey": "planned:sap:assets-and-facilities",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-sap-assets-and-facilities-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/sap/nextjs/assets-and-facilities.md",
+  "presentationPlan": "projects/sap/nextjs/assets-and-facilities.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "sap"
+  ]
+}
